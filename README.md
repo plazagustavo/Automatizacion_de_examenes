@@ -45,4 +45,4 @@ conversor_excel/
 ```
 
 ---
-Creado por [Gustavo Plaza]([https://github.com/tu-usuario](https://github.com/plazagustavo))
+Creado por [Gustavo Plaza](https://github.com/plazagustavo)
