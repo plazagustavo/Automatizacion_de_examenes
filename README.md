@@ -1,4 +1,4 @@
-# Conversor de Excel Médico
+# Conversor de Excel
 
 Script de línea de comandos que convierte archivos Excel con datos de pacientes en planillas formateadas con columnas por tipo de estudio.
 
@@ -43,3 +43,6 @@ conversor_excel/
     ├── openpyxl_writer.py ← escritura con formato profesional
     └── pandas_writer.py   ← escritura básica (fallback)
 ```
+
+---
+Creado por [Gustavo Plaza]([https://github.com/tu-usuario](https://github.com/plazagustavo))
